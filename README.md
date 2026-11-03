@@ -1,0 +1,1 @@
+# Static-Member-Friend-Function-And-Friend-Class-
